@@ -47,6 +47,13 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 - ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Text-guided Image Editing](#text-guided-image-editing) and [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/ViscoNet/visconet.png"/>
 </p></details>
 
+- When StyleGAN Meets Stable Diffusion: a 𝒲+ Adapter for Personalized Image Generation `arxiv` [{Paper}](arxiv.org/abs/2311.17461) [{Code}](https://github.com/csxmli2016/w-plus-adapter) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/W-Plus-Adapter/w-plus-adapter.png"/>
+</p></details>
+
+#### 2022
+
+- MyStyle: A Personalized Generative Prior `{ACM} Trans. Graph.` [{Paper}](https://arxiv.org/abs/2203.17272) [{Code}](https://github.com/google/mystyle) [{Webpage}](https://mystyle-personalized-prior.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/MyStyle/MyStyle.png"/>
+
 ### Portrait Style Transfer
 
 #### 2024
@@ -81,9 +88,12 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
-- Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization `arxiv` [paper](https://arxiv.org/abs/2401.16762)<details><summary>Details</summary></details>
+- Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization `arxiv` [{Paper}](https://arxiv.org/abs/2401.16762)<details><summary>Details</summary></details>
 
 - StableIdentity: Inserting Anybody into Anywhere at First Sight `arxiv` [{Paper}](https://arxiv.org/abs/2401.15975) [{Code}](https://github.com/qinghew/StableIdentity.git) [{Webpage}](https://qinghew.github.io/StableIdentity/)<details>Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/StableIdentity/StableIdentity.png"/>
+</p></details> 
+
+- Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation `arxiv` [{Paper}](https://arxiv.org/abs/2401.01207) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Towards-Identity-Expression/Towards-Identity-Expression.png"/>
 </p></details> 
 
 #### 2023
@@ -121,12 +131,21 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 
 
+#### 2023
+
+- Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions `ICCV2023` [{Paper}](https://arxiv.org/abs/2303.12789) [{Code}](https://github.com/ayaanzhaque/instruct-nerf2nerf) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Instruct-nerf2nerf/in2n.png"/>
+
 
 ### Editable-3D
 
 
 #### 2024
 
+
+#### 2023
+
+- GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
+</p></details>
 
 
 
