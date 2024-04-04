@@ -35,15 +35,21 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
-- InstantID: Zero-shot Identity-Preserving Generation in Seconds [{Paper}](https://arxiv.org/abs/2401.07519) [{Code}](https://github.com/InstantID/InstantID.git) [{Webpage}](https://instantid.github.io/)<details><summary>Details</summary></summary><p align="center">
+- InstantID: Zero-shot Identity-Preserving Generation in Seconds `arxiv` [{Paper}](https://arxiv.org/abs/2401.07519) [{Code}](https://github.com/InstantID/InstantID.git) [{Webpage}](https://instantid.github.io/)<details><summary>Details</summary></summary><p align="center">
   <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/InstantID/main-figure.png"/>
 </p></details>
+
+
+
+#### 2023
+
+- IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
 
 ### Portrait Style Transfer
 
 #### 2024
 
-- InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation [{Paper}](https://arxiv.org/abs/2404.02733) [{Code}](https://github.com/InstantStyle/InstantStyle.git)<details><summary>Details</summary></summary><p align="center">
+- InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation `arxiv` [{Paper}](https://arxiv.org/abs/2404.02733) [{Code}](https://github.com/InstantStyle/InstantStyle.git)<details><summary>Details</summary></summary><p align="center">
   <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/InstantStyle/image-based-style-transfer.png"/>
 </p></details>
 
@@ -69,18 +75,22 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
-- [CLIP-Guided Image Synthesis](https://arxiv.org/abs/2103.00020)
-  - **Description:** CLIP-Guided Image Synthesis is a text-to-image generation model that can generate images from text descriptions using a pre-trained CLIP model. The model can produce images with complex shapes, textures, and colors, and can be fine-tuned to generate images with specific styles and attributes.
-  - **Code:** https://github.com/orpatashnik/CLIP-Guided-Image-Synthesis
+- Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization `arxiv` [paper](https://arxiv.org/abs/2401.16762)
+
+- StableIdentity: Inserting Anybody into Anywhere at First Sight `arxiv` [{Paper}](https://arxiv.org/abs/2401.15975) [{Code}](https://github.com/qinghew/StableIdentity.git) [{Webpage}](https://qinghew.github.io/StableIdentity/)<details>Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/StableIdentity/StableIdentity.png"/>
+</p></details> 
+
+#### 2023
+
+- IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/IP-Adapter/IP-Adapter-tgpg.png"/>
+
 
 
 ### Text-guided Image Editing
 
 #### 2024
 
-- [CLIP-Guided Image Editing](https://arxiv.org/abs/2103.00020)
-  - **Description:** CLIP-Guided Image Editing is a text-to-image generation model that can generate images from text descriptions using a pre-trained CLIP model. The model can produce images with complex shapes, textures, and colors, and can be fine-tuned to generate images with specific styles and attributes.
-  - **Code:** https://github.com/orpatashnik/CLIP-Guided-Image-Synthesis
+
 
 
 ## Customized 3D Generation/Manipulation
@@ -90,9 +100,8 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
-- [CLIP-Guided 3D Shape Synthesis](https://arxiv.org/abs/2103.00020)
-  - **Description:** CLIP-Guided 3D Shape Synthesis is a text-to-3D shape generation model that can generate 3D shapes from text descriptions using a pre-trained CLIP model. The model can produce shapes with complex shapes, textures, and colors, and can be fine-tuned to generate shapes with specific styles and attributes.
-  - **Code:** https://github.com/orpatashnik/CLIP-Guided-3D-Shape-Synthesis
+- StableIdentity: Inserting Anybody into Anywhere at First Sight `arxiv` [{Paper}](https://arxiv.org/abs/2401.15975) [{Code}](https://github.com/qinghew/StableIdentity.git) [{Webpage}](https://qinghew.github.io/StableIdentity/)<details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/StableIdentity/StableIdentity.png"/>
+</p></details> 
 
 
 ### Text-prompted 3D Manipulation
@@ -100,9 +109,7 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
-- [CLIP-Guided 3D Shape Manipulation](https://arxiv.org/abs/2103.00020)
-  - **Description:** CLIP-Guided 3D Shape Manipulation is a text-to-3D shape manipulation model that can manipulate 3D shapes from text descriptions using a pre-trained CLIP model. The model can manipulate shapes with complex shapes, textures, and colors, and can be fine-tuned to manipulate shapes with specific styles and attributes.
-  - **Code:** https://github.com/orpatashnik/CLIP-Guided-3D-Shape-Manipulation
+
 
 
 ### Editable-3D
@@ -110,9 +117,7 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
-- [CLIP-Guided 3D Shape Manipulation](https://arxiv.org/abs/2103.00020)
-  - **Description:** CLIP-Guided 3D Shape Manipulation is a text-to-3D shape manipulation model that can manipulate 3D shapes from text descriptions using a pre-trained CLIP model. The model can manipulate shapes with complex shapes, textures, and colors, and can be fine-tuned to manipulate shapes with specific styles and attributes.
-  - **Code:** https://github.com/orpatashnik/CLIP-Guided-3D-Shape-Manipulation
+
 
 
 ## Other Resources
