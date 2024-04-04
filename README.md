@@ -40,10 +40,12 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 </p></details>
 
 
-
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
+
+- ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Text-guided Image Editing](#text-guided-image-editing) and [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/ViscoNet/visconet.png"/>
+</p></details>
 
 ### Portrait Style Transfer
 
@@ -53,14 +55,18 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
   <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/InstantStyle/image-based-style-transfer.png"/>
 </p></details>
 
+#### 2023
 
+- ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation) and [Text-guided Image Editing](#text-guided-image-editing)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/visconet/visconet.png"/>
+</p></details>
 
 
 ### Interactive Image Editing
 
 #### 2024
 
-
+- Transparent Image Layer Diffusion using Latent Transparency `arxiv` [{Paper}](https://arxiv.org/abs/2402.17113) [{Code}](https://github.com/layerdiffusion/sd-forge-layerdiffuse.git)<details>**Powerful PhotoShop cutout replacement!**<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/layerdiffuse/sd-forge-layerdiffuse.png"/>
+</p></details>
 
 #### 2023
 
@@ -75,7 +81,7 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
-- Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization `arxiv` [paper](https://arxiv.org/abs/2401.16762)
+- Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization `arxiv` [paper](https://arxiv.org/abs/2401.16762)<details><summary>Details</summary></details>
 
 - StableIdentity: Inserting Anybody into Anywhere at First Sight `arxiv` [{Paper}](https://arxiv.org/abs/2401.15975) [{Code}](https://github.com/qinghew/StableIdentity.git) [{Webpage}](https://qinghew.github.io/StableIdentity/)<details>Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/StableIdentity/StableIdentity.png"/>
 </p></details> 
@@ -90,8 +96,12 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
+- BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2401.13974) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/BootPig/BootPig.png"/>
 
+#### 2023
 
+- ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)  and [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/visconet/visconet.png"/>
+</p></details>
 
 ## Customized 3D Generation/Manipulation
 
