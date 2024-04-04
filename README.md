@@ -35,6 +35,8 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 #### 2024
 
+- Face2Diffusion for Fast and Editable Face Personalization `CVPR2024` [{Paper}](https://arxiv.org/abs/2403.05094) [{Code}](https://github.com/mapooon/face2diffusion) [{Webpage}](https://mapooon.github.io/Face2DiffusionPage/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Face2Diffusion/face2diffusion.png"/> </p></details>
+
 - InstantID: Zero-shot Identity-Preserving Generation in Seconds `arxiv` [{Paper}](https://arxiv.org/abs/2401.07519) [{Code}](https://github.com/InstantID/InstantID.git) [{Webpage}](https://instantid.github.io/)<details><summary>Details</summary></summary><p align="center">
   <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/InstantID/main-figure.png"/>
 </p></details>
@@ -153,13 +155,20 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 
 ### Generic Datasets
 
-- [FFHQ: A Free-to-use Dataset of Human Facial Images for Editing](https://github.com/NVlabs/ffhq-dataset)
-  - **Description:** FFHQ is a dataset of human facial images for editing, including 10,000 images of real people with various expressions, backgrounds, and identities. The dataset is free to use and can be used for various applications such as face synthesis, image-to-image translation, and image editing.
-  - **Code:** https://github.com/NVlabs/ffhq-dataset
+- Flickr-Faces-HQ Dataset (FFHQ) [{Paper}](https://arxiv.org/abs/1812.04948) [{Code}](https://github.com/NVlabs/ffhq-dataset.git) [{Download}](https://drive.google.com/drive/folders/1u2xu7bSrWxrbUxk-dT-UvEJq8IjdmNTP)
 
+- CelebAMask-HQ [{Paper}](https://arxiv.org/abs/1907.11922) [{Code}](https://github.com/switchablenorms/CelebAMask-HQ) [{Download}](https://drive.google.com/file/d/1badu11NqxGf6qM3PTTooQDJvQbejgbTv/view)
+
+- Multi-Modal-CelebA-HQ `CVPR 2021` [{Paper}](https://arxiv.org/abs/2012.03308) [{Code}](https://github.com/MarekKowalski/Multi-Modal-CelebA-HQ) [{Download}](https://drive.google.com/drive/folders/1TxsSzPhZsJNijIXPINv05IUWhG3vBU-X)
 
 ### Generic Pre-trained Models
 
-- [CLIP: Connecting Text and Images](https://github.com/openai/CLIP)
-  - **Description:** CLIP is a pre-trained model that can be used for various tasks such as image and text-based image synthesis, image and text-based image manipulation, and text-based image retrieval.
-  - **Code:** https://github.com/openai/CLIP
+- SD-v1-4 [{Paper}](https://arxiv.org/abs/2112.10752) [{Code}](https://github.com/compvis/stable-diffusion) [{HuggingFace}](https://huggingface.co/CompVis/stable-diffusion-v1-4) [{Blog}](https://huggingface.co/blog/stable_diffusion) [{Download}](https://huggingface.co/runwayml/stable-diffusion-v1-4/tree/main)<details>CompVis/stable-diffusion-v1-4<summary>Details</summary></details>
+
+- SD-1-5 [{Paper}](https://arxiv.org/abs/2112.10752) [{Code}](https://github.com/compvis/stable-diffusion) [{HuggingFace}](https://huggingface.co/runwayml/stable-diffusion-v1-5) [{Blog}](https://huggingface.co/blog/stable_diffusion) [{Download}](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)<details>runwayml/stable-diffusion-v1-5<summary>Details</summary></details>
+
+- SD-2-1-base [{Paper}](https://arxiv.org/abs/2112.10752) [{Code}](https://github.com/Stability-AI/stablediffusion) [{HuggingFace}](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) [{Download}](https://huggingface.co/stabilityai/stable-diffusion-2-1-base/tree/main)<details>stabilityai/stable-diffusion-2-1-base<summary>Details</summary></details>
+
+- SD-XL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [{Paper}](https://arxiv.org/abs/2307.01952) [{Code}](https://github.com/stability-ai/generative-models) [{HuggingFace}](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) [{Download}](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/tree/main)<details>stabilityai/stable-diffusion-xl-base-1.0<summary>Details</summary></details>
+
+- sdxl-turbo (Adversarial Diffusion Distillation) [{Paper}](https://arxiv.org/abs/2311.17042) [{Code}](https://github.com/Stability-AI/generative-models) [{HuggingFace}](https://huggingface.co/stabilityai/stable-diffusion-xl-turbo-1.0) [{Download}](https://huggingface.co/stabilityai/sdxl-turbo/tree/main) [{Demo}](http://clipdrop.co/stable-diffusion-turbo)<details>stabilityai/sdxl-turbo<summary>Details</summary></details>
