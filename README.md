@@ -8,6 +8,7 @@ Artificial Intelligence Generated Content (AIGC) has become ubiquitous, demonstr
 
 This repo mainly focuses on visual generative models (leaving out LLMs), including 2D image-to-image, 2D text-to-image, and text-guided 3D generation/manipulation, collecting customized, personalized, and editable works in these specific domains. For any addition about other 2D/3D AIGC domains or bugs report, please open an issue, pull requests, or e-mail me at `normanzheng6606@gmail.com` for better communication.
 
+Frequantly updating, please stay tuned!
 
 ## Table of Contents
 - [Customized 2D Image-to-Image](#customized-2d-image-to-image)
@@ -34,6 +35,8 @@ This repo mainly focuses on visual generative models (leaving out LLMs), includi
 ### Image-prompted Generation   
 
 #### 2024
+
+- FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.07536) [{Code}](https://github.com/genforce/freecontrol.git) [{Webpage}](https://genforce.github.io/freecontrol/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/FreeControl/freecontrol.png"/> </p></details>
 
 - Face2Diffusion for Fast and Editable Face Personalization `CVPR2024` [{Paper}](https://arxiv.org/abs/2403.05094) [{Code}](https://github.com/mapooon/face2diffusion) [{Webpage}](https://mapooon.github.io/Face2DiffusionPage/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Face2Diffusion/face2diffusion.png"/> </p></details>
 
