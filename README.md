@@ -128,7 +128,13 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 - PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2309.05793) [{Webpage}](https://photoverse2d.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/photoverse2d/photoverse2d.png"/> 
 
+- PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding `arxiv` [{Paper}](https://arxiv.org/abs/2312.04461) [{Code}](https://github.com/TencentARC/PhotoMaker.git) [{Webpage}](photo-maker.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/PhotoMaker/photo-maker.png"/> 
+
 - DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation `CVPR2022` [{Paper}](https://arxiv.org/abs/2208.12242) [{Code}](https://github.com/google/dreambooth.git) [{Webpage}](https://dreambooth.github.io/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/DreamBooth/dreambooth.png"/> 
+
+- CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization `arxiv` [{Paper}](https://arxiv.org/abs/2311.14631) [{Code}](https://github.com/RoyZhao926/CatVersion.git) [{Webpage}](https://royzhao926.github.io/CatVersion-page/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/CatVersion/catversion.png"/> 
+
+- Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning `arxiv` [{Paper}](arxiv.org/abs/2307.11410) [{Code}](https://github.com/OPPO-Mente-Lab/Subject-Diffusion.git) [{Webpage}](https://oppo-mente-lab.github.io/subject_diffusion/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Subject-Diffusion/subject-diffusion.png"/> 
 
 ### Text-guided Image Editing
 
@@ -145,7 +151,7 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 - HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models `arxiv` [{Paper}](arxiv.org/abs/2312.14091) [{Code}](https://github.com/Picsart-AI-Research/HD-Painter.git) [{HuggingFace}](https://huggingface.co/spaces/PAIR/HD-Painter) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/HD-Painter/hdpainter.png"/>
 
-- PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding `arxiv` [{Paper}](https://arxiv.org/abs/2312.04461) [{Code}](https://github.com/TencentARC/PhotoMaker.git) [{Webpage}](photo-maker.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/PhotoMaker/photo-maker.png"/> 
+
 
 ## Customized 3D Generation/Manipulation
 
@@ -163,7 +169,7 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 #### 2024
 
-
+- GaussianEditor (S-Lab, NTU, etc.): Swift and Controllable 3D Editing with Gaussian Splatting `CVPR2024` [{Paper}](https://arxiv.org/abs/2311.14521) [{Code}](https://github.com/buaacyw/GaussianEditor.git) [{Webpage}](buaacyw.github.io/gaussian-editor/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/gaussianeditor-s-lab/gaussianeditor.png"/> 
 
 #### 2023
 
@@ -171,6 +177,7 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 - DreamBooth3D: Subject-Driven Text-to-3D Generation with Dream Fields `ICCV2023` [{Paper}](https://arxiv.org/abs/2303.13508) [{Webpage}](https://dreambooth3d.github.io/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/dreambooth3d/dreambooth3d.png"/> 
 
+- GaussianEditor (Huawei): Editing 3D Gaussians Delicately with Text Instructions `arxiv` [{Paper}](https://arxiv.org/abs/2311.16037) [{Webpage}](https://gaussianeditor.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/gaussianeditor-huawei/gaussianeditor.png"/> 
 
 ### Editable-3D
 
