@@ -118,6 +118,12 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 - Real-World Image Variation by Aligning Diffusion Inversion Chain `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18729) [{Code}](https://github.com/dvlab-research/RIVAL.git) [{Webpage}](https://rival-diff.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation) and [Portrait Style Transfer](#portrait-style-transfer) <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/rival-diff/rival-diff.png"/> 
 
+- Customization Assistant for Text-to-image Generation `arxiv` [{Paper}](https://arxiv.org/abs/2312.03045) [{Code}](https://github.com/drboog/ProFusion.git)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/profusion/profusion.png"/> 
+
+- FaceStudio: Put Your Face Everywhere in Seconds `arxiv` [{Paper}](https://arxiv.org/abs/2312.02663) [{Code}](https://github.com/TencentQQGYLab/FaceStudio.git) [{Webpage}](https://icoz69.github.io/facestudio/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/FaceStudio/facestudio.png"/>
+
+- CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2310.19784) [{Code}](https://github.com/TencentARC/CustomNet.git) [{Webpage}](https://jiangyzy.github.io/CustomNet/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/CustomNet/customnet.png"/> 
+
 ### Text-guided Image Editing
 
 #### 2024
@@ -132,6 +138,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2312.03771) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/DreamInpainter/DreamInpainter.png"/>
 
 - HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models `arxiv` [{Paper}](arxiv.org/abs/2312.14091) [{Code}](https://github.com/Picsart-AI-Research/HD-Painter.git) [{HuggingFace}](https://huggingface.co/spaces/PAIR/HD-Painter) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/HD-Painter/hdpainter.png"/>
+
+- PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding `arxiv` [{Paper}](https://arxiv.org/abs/2312.04461) [{Code}](https://github.com/TencentARC/PhotoMaker.git) [{Webpage}](photo-maker.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/PhotoMaker/photo-maker.png"/> 
 
 ## Customized 3D Generation/Manipulation
 
