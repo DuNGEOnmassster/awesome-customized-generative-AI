@@ -81,6 +81,9 @@ Frequantly updating, please stay tuned!
 
 - Real-World Image Variation by Aligning Diffusion Inversion Chain `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18729) [{Code}](https://github.com/dvlab-research/RIVAL.git) [{Webpage}](https://rival-diff.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation) and [Text-guided Portrait Generation](#text-guided-portrait-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/rival/rival.png"/>
 
+- ArtAdapter: Text-to-Image Style Transfer using
+Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxiv.org/abs/2312.02109) [{Code}](https://github.com/cardinalblue/ArtAdapter.git) [{Webpage}](https://cardinalblue.github.io/artadapter.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/artadapter/artadapter.png"/>
+
 ### Interactive Image Editing
 
 #### 2024
@@ -125,6 +128,10 @@ Frequantly updating, please stay tuned!
 
 - ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)  and [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/visconet/visconet.png"/>
 </p></details>
+
+- DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2312.03771) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/DreamInpainter/DreamInpainter.png"/>
+
+- HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models `arxiv` [{Paper}](arxiv.org/abs/2312.14091) [{Code}](https://github.com/Picsart-AI-Research/HD-Painter.git) [{HuggingFace}](https://huggingface.co/spaces/PAIR/HD-Painter) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/HD-Painter/hdpainter.png"/>
 
 ## Customized 3D Generation/Manipulation
 
