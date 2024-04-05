@@ -124,6 +124,12 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 - CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2310.19784) [{Code}](https://github.com/TencentARC/CustomNet.git) [{Webpage}](https://jiangyzy.github.io/CustomNet/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/CustomNet/customnet.png"/> 
 
+- Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models `arxiv` [{Paper}](arxiv.org/abs/2302.12228) [{Code}](https://github.com/mkshing/e4t-diffusion.git)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/e4t-diffusion/e4t-diffusion.png"/> 
+
+- PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2309.05793) [{Webpage}](https://photoverse2d.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/photoverse2d/photoverse2d.png"/> 
+
+- DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation `CVPR2022` [{Paper}](https://arxiv.org/abs/2208.12242) [{Code}](https://github.com/google/dreambooth.git) [{Webpage}](https://dreambooth.github.io/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/DreamBooth/dreambooth.png"/> 
+
 ### Text-guided Image Editing
 
 #### 2024
@@ -162,6 +168,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 #### 2023
 
 - Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions `ICCV2023` [{Paper}](https://arxiv.org/abs/2303.12789) [{Code}](https://github.com/ayaanzhaque/instruct-nerf2nerf) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Instruct-nerf2nerf/in2n.png"/>
+
+- DreamBooth3D: Subject-Driven Text-to-3D Generation with Dream Fields `ICCV2023` [{Paper}](https://arxiv.org/abs/2303.13508) [{Webpage}](https://dreambooth3d.github.io/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/dreambooth3d/dreambooth3d.png"/> 
 
 
 ### Editable-3D
