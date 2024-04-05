@@ -23,7 +23,6 @@ Frequantly updating, please stay tuned!
 - [Customized 3D Generation/Manipulation](#customized-3d-generationmanipulation)
   - [Image-prompted 3D Generation](#image-prompted-3d-generation)
   - [Text-prompted 3D Manipulation](#text-prompted-3d-manipulation)
-  - [Editable-3D](#editable-3d)
 - [Other Resources](#other-resources)
   - [Generic Datasets](#generic-datasets)
   - [Generic Pre-trained Models](#generic-pre-trained-models)
@@ -164,6 +163,12 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 </p></details> 
 
 
+#### 2023
+
+- GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
+</p></details>
+
+
 ### Text-prompted 3D Manipulation
 
 
@@ -178,17 +183,6 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - DreamBooth3D: Subject-Driven Text-to-3D Generation with Dream Fields `ICCV2023` [{Paper}](https://arxiv.org/abs/2303.13508) [{Webpage}](https://dreambooth3d.github.io/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/dreambooth3d/dreambooth3d.png"/> 
 
 - GaussianEditor (Huawei): Editing 3D Gaussians Delicately with Text Instructions `arxiv` [{Paper}](https://arxiv.org/abs/2311.16037) [{Webpage}](https://gaussianeditor.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/gaussianeditor-huawei/gaussianeditor.png"/> 
-
-### Editable-3D
-
-
-#### 2024
-
-
-#### 2023
-
-- GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
-</p></details>
 
 
 
