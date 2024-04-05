@@ -44,6 +44,7 @@ Frequantly updating, please stay tuned!
   <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/InstantID/main-figure.png"/>
 </p></details>
 
+- X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.02238) [{Code}](https://github.com/showlab/X-Adapter.git) [{Webpage}](https://showlab.github.io/X-Adapter/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/X-Adapter/X-Adapter.png"/> </p></details>
 
 #### 2023
 
@@ -54,6 +55,10 @@ Frequantly updating, please stay tuned!
 
 - When StyleGAN Meets Stable Diffusion: a 𝒲+ Adapter for Personalized Image Generation `arxiv` [{Paper}](arxiv.org/abs/2311.17461) [{Code}](https://github.com/csxmli2016/w-plus-adapter) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/W-Plus-Adapter/w-plus-adapter.png"/>
 </p></details>
+
+- Real-World Image Variation by Aligning Diffusion Inversion Chain `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18729) [{Code}](https://github.com/dvlab-research/RIVAL.git) [{Webpage}](https://rival-diff.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation) and [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/rival-diff/rival-diff.png"/>
+
+- MyStyle++: A Controllable Personalized Generative Prior `SIGGRAPH ASIA 2023` [{Paper}](https://arxiv.org/abs/2306.04865) [{Code}](https://github.com/google/mystyle) [{Webpage}](https://mystyle-personalized-prior.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary></details>
 
 #### 2022
 
@@ -72,6 +77,9 @@ Frequantly updating, please stay tuned!
 - ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation) and [Text-guided Image Editing](#text-guided-image-editing)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/visconet/visconet.png"/>
 </p></details>
 
+- DemoCaricature: Democratising Caricature Generation with a Rough Sketch `arxiv` [{Paper}](https://arxiv.org/abs/2312.04364) [{Webpage}](https://democaricature.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/DemoCaricature/DemoCaricature.png"/>
+
+- Real-World Image Variation by Aligning Diffusion Inversion Chain `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18729) [{Code}](https://github.com/dvlab-research/RIVAL.git) [{Webpage}](https://rival-diff.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation) and [Text-guided Portrait Generation](#text-guided-portrait-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/rival/rival.png"/>
 
 ### Interactive Image Editing
 
@@ -105,7 +113,7 @@ Frequantly updating, please stay tuned!
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/IP-Adapter/IP-Adapter-tgpg.png"/>
 
-
+- Real-World Image Variation by Aligning Diffusion Inversion Chain `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18729) [{Code}](https://github.com/dvlab-research/RIVAL.git) [{Webpage}](https://rival-diff.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation) and [Portrait Style Transfer](#portrait-style-transfer) <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/rival-diff/rival-diff.png"/> 
 
 ### Text-guided Image Editing
 
