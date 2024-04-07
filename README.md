@@ -45,6 +45,8 @@ Frequantly updating, please stay tuned!
 
 - X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.02238) [{Code}](https://github.com/showlab/X-Adapter.git) [{Webpage}](https://showlab.github.io/X-Adapter/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/X-Adapter/X-Adapter.png"/> </p></details>
 
+- MagiCapture: High-Resolution Multi-Concept Portrait Customization `AAAI2024` [{Paper}](https://arxiv.org/abs/2309.06895) [{Code}](https://github.com/junhahyung/MagiCapture.git) [{Webpage}](https://magicapture.github.io/) <details>Also suitable for [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/MagiCapture/magicapture.png"/> </p></details>
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
@@ -92,6 +94,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - Transparent Image Layer Diffusion using Latent Transparency `arxiv` [{Paper}](https://arxiv.org/abs/2402.17113) [{Code}](https://github.com/layerdiffusion/sd-forge-layerdiffuse.git)<details>**Powerful PhotoShop cutout replacement!**<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/layerdiffuse/sd-forge-layerdiffuse.png"/>
 </p></details>
 
+- MagiCapture: High-Resolution Multi-Concept Portrait Customization `AAAI2024` [{Paper}](https://arxiv.org/abs/2309.06895) [{Code}](https://github.com/junhahyung/MagiCapture.git) [{Webpage}](https://magicapture.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/MagiCapture/magicapture.png"/> </p></details>
+
 #### 2023
 
 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold `SIGGRAPH 2023` [{Paper}](https://arxiv.org/abs/2305.10973) [{Code}](https://github.com/XingangPan/DragGAN.git) [{Webpage}](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
@@ -138,6 +142,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning `arxiv` [{Paper}](arxiv.org/abs/2307.11410) [{Code}](https://github.com/OPPO-Mente-Lab/Subject-Diffusion.git) [{Webpage}](https://oppo-mente-lab.github.io/subject_diffusion/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Subject-Diffusion/subject-diffusion.png"/> 
 
 - Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18292) [{Code}](https://github.com/TencentARC/Mix-of-Show.git) [{Webpage}](https://showlab.github.io/Mix-of-Show/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Mix-of-Show/Mix-of-Show.png"/> 
+
+- HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models `arxiv` [{Paper}](https://arxiv.org/abs/2307.06949) [{Code}](https://github.com/JiauZhang/hyperdreambooth.git) [{Webpage}](https://hyperdreambooth.github.io/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/HyperDreamBooth/HyperDreamBooth.png"/> 
 
 ### Text-guided Image Editing
 
