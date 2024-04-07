@@ -59,6 +59,8 @@ Frequantly updating, please stay tuned!
 
 - MyStyle++: A Controllable Personalized Generative Prior `SIGGRAPH ASIA 2023` [{Paper}](https://arxiv.org/abs/2306.04865) [{Code}](https://github.com/google/mystyle) [{Webpage}](https://mystyle-personalized-prior.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary></details>
 
+- Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18292) [{Code}](https://github.com/TencentARC/Mix-of-Show.git) [{Webpage}](https://showlab.github.io/Mix-of-Show/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Mix-of-Show/Mix-of-Show.png"/> 
+
 #### 2022
 
 - MyStyle: A Personalized Generative Prior `{ACM} Trans. Graph.` [{Paper}](https://arxiv.org/abs/2203.17272) [{Code}](https://github.com/google/mystyle) [{Webpage}](https://mystyle-personalized-prior.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/MyStyle/MyStyle.png"/>
@@ -134,6 +136,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization `arxiv` [{Paper}](https://arxiv.org/abs/2311.14631) [{Code}](https://github.com/RoyZhao926/CatVersion.git) [{Webpage}](https://royzhao926.github.io/CatVersion-page/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/CatVersion/catversion.png"/> 
 
 - Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning `arxiv` [{Paper}](arxiv.org/abs/2307.11410) [{Code}](https://github.com/OPPO-Mente-Lab/Subject-Diffusion.git) [{Webpage}](https://oppo-mente-lab.github.io/subject_diffusion/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Subject-Diffusion/subject-diffusion.png"/> 
+
+- Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18292) [{Code}](https://github.com/TencentARC/Mix-of-Show.git) [{Webpage}](https://showlab.github.io/Mix-of-Show/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Mix-of-Show/Mix-of-Show.png"/> 
 
 ### Text-guided Image Editing
 
