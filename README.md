@@ -121,6 +121,13 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation `arxiv` [{Paper}](https://arxiv.org/abs/2401.01207) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Towards-Identity-Expression/Towards-Identity-Expression.png"/>
 </p></details> 
 
+- DisenBooth: Identity-Preserving Disentangled Tuning for Subject-Driven Text-to-Image Generation `ICLR2024` [{Paper}](https://arxiv.org/abs/2305.03374) [{Code}](https://github.com/forchchch/DisenBooth.git) [{Webpage}](https://disenbooth.github.io/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/DisenBooth/DisenBooth.png"/>
+</p></details> 
+
+- DreamMatcher: Appearance Matching Self-Attention
+for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](https://arxiv.org/abs/2402.09812) [{Code}](https://github.com/KU-CVLAB/DreamMatcher.git) [{Webpage}](https://ku-cvlab.github.io/DreamMatcher/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/DreamMatcher/DreamMatcher.png"/>
+</p></details> 
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/IP-Adapter/IP-Adapter-tgpg.png"/>
