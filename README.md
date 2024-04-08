@@ -63,6 +63,8 @@ Frequantly updating, please stay tuned!
 
 - Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18292) [{Code}](https://github.com/TencentARC/Mix-of-Show.git) [{Webpage}](https://showlab.github.io/Mix-of-Show/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Mix-of-Show/Mix-of-Show.png"/> 
 
+- SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing `arxiv` [{Paper}](https://arxiv.org/abs/2310.08094) [{Code}](https://github.com/JarrentWu1031/SingleInsert.git) [{Webpage}](https://jarrentwu1031.github.io/SingleInsert-web/)<details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/SingleInsert/SingleInsert.png"/> 
+
 #### 2022
 
 - MyStyle: A Personalized Generative Prior `{ACM} Trans. Graph.` [{Paper}](https://arxiv.org/abs/2203.17272) [{Code}](https://github.com/google/mystyle) [{Webpage}](https://mystyle-personalized-prior.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/MyStyle/MyStyle.png"/>
@@ -109,6 +111,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 #### 2024
 
+- FlashFace: Human Image Personalization with High-fidelity Identity Preservation `arxiv` [{Paper}](https://arxiv.org/abs/2403.17008) [{Code}](https://github.com/TencentARC/FlashFace.git) [{Webpage}](https://jshilong.github.io/flashface-page/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/flashface/flashface.png"/> 
+
 - Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization `arxiv` [{Paper}](https://arxiv.org/abs/2401.16762)<details><summary>Details</summary></details>
 
 - StableIdentity: Inserting Anybody into Anywhere at First Sight `arxiv` [{Paper}](https://arxiv.org/abs/2401.15975) [{Code}](https://github.com/qinghew/StableIdentity.git) [{Webpage}](https://qinghew.github.io/StableIdentity/)<details>Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/StableIdentity/StableIdentity.png"/>
@@ -144,6 +148,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18292) [{Code}](https://github.com/TencentARC/Mix-of-Show.git) [{Webpage}](https://showlab.github.io/Mix-of-Show/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Mix-of-Show/Mix-of-Show.png"/> 
 
 - HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models `arxiv` [{Paper}](https://arxiv.org/abs/2307.06949) [{Code}](https://github.com/JiauZhang/hyperdreambooth.git) [{Webpage}](https://hyperdreambooth.github.io/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/HyperDreamBooth/HyperDreamBooth.png"/> 
+
+- SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing `arxiv` [{Paper}](https://arxiv.org/abs/2310.08094) [{Code}](https://github.com/JarrentWu1031/SingleInsert.git) [{Webpage}](https://jarrentwu1031.github.io/SingleInsert-web/)<details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/SingleInsert/SingleInsert.png"/> 
 
 ### Text-guided Image Editing
 
@@ -185,6 +191,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 #### 2024
 
 - GaussianEditor (S-Lab, NTU, etc.): Swift and Controllable 3D Editing with Gaussian Splatting `CVPR2024` [{Paper}](https://arxiv.org/abs/2311.14521) [{Code}](https://github.com/buaacyw/GaussianEditor.git) [{Webpage}](buaacyw.github.io/gaussian-editor/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/gaussianeditor-s-lab/gaussianeditor.png"/> 
+
+- GenN2N: Generative NeRF2NeRF Translation for 3D Shape Manipulation `CVPR2024` [{Paper}](https://arxiv.org/abs/2404.02788) [{Code}](https://github.com/Lxiangyue/GenN2N.git) [{Webpage}](https://xiangyueliu.github.io/GenN2N/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/GenN2N/GenN2N.png"/> 
 
 #### 2023
 
