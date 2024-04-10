@@ -47,6 +47,8 @@ Frequantly updating, please stay tuned!
 
 - MagiCapture: High-Resolution Multi-Concept Portrait Customization `AAAI2024` [{Paper}](https://arxiv.org/abs/2309.06895) [{Code}](https://github.com/junhahyung/MagiCapture.git) [{Webpage}](https://magicapture.github.io/) <details>Also suitable for [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/MagiCapture/magicapture.png"/> </p></details>
 
+- Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On `CVPR2024` [{Paper}](https://arxiv.org/abs/2404.01089) [{Code}](https://github.com/gal4way/tpd) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/TPD/TPD.png"/> </p></details>
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
@@ -64,6 +66,10 @@ Frequantly updating, please stay tuned!
 - Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.18292) [{Code}](https://github.com/TencentARC/Mix-of-Show.git) [{Webpage}](https://showlab.github.io/Mix-of-Show/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Mix-of-Show/Mix-of-Show.png"/> 
 
 - SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing `arxiv` [{Paper}](https://arxiv.org/abs/2310.08094) [{Code}](https://github.com/JarrentWu1031/SingleInsert.git) [{Webpage}](https://jarrentwu1031.github.io/SingleInsert-web/)<details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/SingleInsert/SingleInsert.png"/> 
+
+- Cones 2: Customizable Image Synthesis with Multiple Subjects `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.19327) [{Code}](https://github.com/ali-vilab/Cones-V2.git) [{Webpage}](https://cones.github.io/)<details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Cones-V2/Cones-V2.png"/>
+
+- LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On `ACM MM 2023` [{Paper}](https://arxiv.org/abs/2305.13501) [{Code}](https://github.com/miccunifi/ladi-vton) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/LaDI-VTON/LaDI-VTON.png"/>
 
 #### 2022
 
@@ -158,6 +164,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing `arxiv` [{Paper}](https://arxiv.org/abs/2310.08094) [{Code}](https://github.com/JarrentWu1031/SingleInsert.git) [{Webpage}](https://jarrentwu1031.github.io/SingleInsert-web/)<details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/SingleInsert/SingleInsert.png"/> 
 
+- Cones 2: Customizable Image Synthesis with Multiple Subjects `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.19327) [{Code}](https://github.com/ali-vilab/Cones-V2.git) [{Webpage}](https://cones.github.io/)<details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Cones-V2/Cones-V2.png"/>
+
 ### Text-guided Image Editing
 
 #### 2024
@@ -220,6 +228,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - CelebAMask-HQ [{Paper}](https://arxiv.org/abs/1907.11922) [{Code}](https://github.com/switchablenorms/CelebAMask-HQ) [{Download}](https://drive.google.com/file/d/1badu11NqxGf6qM3PTTooQDJvQbejgbTv/view)
 
 - Multi-Modal-CelebA-HQ `CVPR 2021` [{Paper}](https://arxiv.org/abs/2012.03308) [{Code}](https://github.com/MarekKowalski/Multi-Modal-CelebA-HQ) [{Download}](https://drive.google.com/drive/folders/1TxsSzPhZsJNijIXPINv05IUWhG3vBU-X)
+
+- Dress Code: High-Resolution Multi-Category Virtual Try-On. `ECCV 2022` [{Paper}](https://arxiv.org/abs/2204.08532) [{Code}](https://github.com/aimagelab/dress-code.git) [{Download}](https://forms.gle/72Bpeh48P7zQimin7)
 
 ### Generic Pre-trained Models
 
