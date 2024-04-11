@@ -49,6 +49,8 @@ Frequantly updating, please stay tuned!
 
 - Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On `CVPR2024` [{Paper}](https://arxiv.org/abs/2404.01089) [{Code}](https://github.com/gal4way/tpd) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/TPD/TPD.png"/> </p></details>
 
+- Orthogonal Adaptation for Modular Customization of Diffusion Models `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.02432) [{Webpage}](https://ryanpo.com/ortha/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/ortha/ortha.png"/> </p></details>
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
@@ -134,6 +136,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](https://arxiv.org/abs/2402.09812) [{Code}](https://github.com/KU-CVLAB/DreamMatcher.git) [{Webpage}](https://ku-cvlab.github.io/DreamMatcher/?utm_source=catalyzex.com)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/DreamMatcher/DreamMatcher.png"/>
 </p></details> 
 
+- Orthogonal Adaptation for Modular Customization of Diffusion Models `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.02432) [{Webpage}](https://ryanpo.com/ortha/) <details>Also suitable for [Image-prompted-Generation](#image-prompted-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/ortha/ortha.png"/> </p></details>
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/IP-Adapter/IP-Adapter-tgpg.png"/>
@@ -208,6 +212,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - GaussianEditor (S-Lab, NTU, etc.): Swift and Controllable 3D Editing with Gaussian Splatting `CVPR2024` [{Paper}](https://arxiv.org/abs/2311.14521) [{Code}](https://github.com/buaacyw/GaussianEditor.git) [{Webpage}](buaacyw.github.io/gaussian-editor/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/gaussianeditor-s-lab/gaussianeditor.png"/> 
 
 - GenN2N: Generative NeRF2NeRF Translation for 3D Shape Manipulation `CVPR2024` [{Paper}](https://arxiv.org/abs/2404.02788) [{Code}](https://github.com/Lxiangyue/GenN2N.git) [{Webpage}](https://xiangyueliu.github.io/GenN2N/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/GenN2N/GenN2N.png"/> 
+
+- 3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation `CVPR2024` [{Paper}](https://arxiv.org/abs/2311.09571) [{Code}](https://github.com/threedle/3d-paintbrush.git) [{Webpage}](https://threedle.github.io/3d-paintbrush/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/3d-paintbrush/3d-paintbrush.png"/> 
 
 #### 2023
 
