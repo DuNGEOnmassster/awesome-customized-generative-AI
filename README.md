@@ -203,6 +203,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On `CVPR 2024` [{Paper}](https://arxiv.org/abs/2312.01725) [{Code}](https://github.com/rlawjdghek/StableVITON.git) [{Webpage}](https://rlawjdghek.github.io/StableVITON/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/StableVITON/stable-viton.png"/>
 </p></details> 
 
+- Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.01663) [{Code}](https://github.com/hrz2000/CustomNeRF.git) [{Webpage}](https://customnerf.github.io/)<details>Also suitable for [Text-prompted 3D Manipulation](#text-prompted-3d-manipulation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/customnerf/customnerf.png"/> 
+
 #### 2023
 
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
@@ -223,6 +225,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts `arxiv` [{Paper}](https://arxiv.org/abs/2401.14828) [{Webpage}](https://zjy526223908.github.io/TIP-Editor/) <details>Also suitable for Also suitable for [Image-Prompted 3D Generation](#image-prompted-3d-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/TIP-Editor/TIP-Editor.png"/>
 </p></details> 
 
+- Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.01663) [{Code}](https://github.com/hrz2000/CustomNeRF.git) [{Webpage}](https://customnerf.github.io/)<details>Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/customnerf/customnerf.png"/> 
+
 #### 2023
 
 - Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions `ICCV2023` [{Paper}](https://arxiv.org/abs/2303.12789) [{Code}](https://github.com/ayaanzhaque/instruct-nerf2nerf) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Instruct-nerf2nerf/in2n.png"/>
@@ -231,7 +235,7 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - GaussianEditor (Huawei): Editing 3D Gaussians Delicately with Text Instructions `arxiv` [{Paper}](https://arxiv.org/abs/2311.16037) [{Webpage}](https://gaussianeditor.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/gaussianeditor-huawei/gaussianeditor.png"/> 
 
-
+- ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields `NeurIPS 2023` [{Paper}](https://arxiv.org/abs/2402.00864) [{Code}](https://github.com/Dongjiahua/VICA-NeRF.git) [{Webpage}](https://dongjiahua.github.io/VICA-NeRF/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/VICA-NeRF/VICA-NeRF.png"/>
 
 ## Other Resources
 
