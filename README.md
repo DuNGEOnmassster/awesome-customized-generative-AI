@@ -210,6 +210,7 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
 </p></details>
 
+- TryOnDiffusion: A Tale of Two UNets `CVPR 2023` [{Paper}](https://arxiv.org/abs/2306.08276) [{Code}](https://github.com/fashn-AI/tryondiffusion.git) [{Webpage}](https://tryondiffusion.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/TryonDiffusion/tryon-diffusion.png"/>
 
 ### Text-prompted 3D Manipulation
 
@@ -226,6 +227,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 </p></details> 
 
 - Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.01663) [{Code}](https://github.com/hrz2000/CustomNeRF.git) [{Webpage}](https://customnerf.github.io/)<details>Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/customnerf/customnerf.png"/> 
+
+- Posterior Distillation Sampling `CVPR 2024` [{Paper}](https://arxiv.org/abs/2311.13831) [{Code}](https://github.com/KAIST-Visual-AI-Group/PDS.git) [{Webpage}](https://posterior-distillation-sampling.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/PDS/pds.png"/> 
 
 #### 2023
 
