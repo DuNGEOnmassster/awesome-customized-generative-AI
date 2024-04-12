@@ -108,9 +108,9 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 #### 2023
 
-- Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold `SIGGRAPH 2023` [{Paper}](https://arxiv.org/abs/2305.10973) [{Code}](https://github.com/XingangPan/DragGAN.git) [{Webpage}](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
+- Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold `SIGGRAPH 2023` [{Paper}](https://arxiv.org/abs/2305.10973) [{Code}](https://github.com/XingangPan/DragGAN.git) [{Webpage}](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)<details>Interactive manipulation of the generative image manifold!<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/DragGAN/draggan.png"/> </p></details>
 
-- DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing `CVPR2024` [{Paper}](https://arxiv.org/abs/2306.14435) [{Code}](https://github.com/Yujun-Shi/DragDiffusion.git) [{Webpage}](https://yujun-shi.github.io/projects/dragdiffusion.html)
+- DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing `CVPR 2024` [{Paper}](https://arxiv.org/abs/2306.14435) [{Code}](https://github.com/Yujun-Shi/DragDiffusion.git) [{Webpage}](https://yujun-shi.github.io/projects/dragdiffusion.html)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/dragdiffusion/dragdiffusion.png"/> </p></details>
 
 ## Customized 2D Text-to-Image
 
@@ -204,6 +204,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 </p></details> 
 
 - Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.01663) [{Code}](https://github.com/hrz2000/CustomNeRF.git) [{Webpage}](https://customnerf.github.io/)<details>Also suitable for [Text-prompted 3D Manipulation](#text-prompted-3d-manipulation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/customnerf/customnerf.png"/> 
+
+- SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.05087) [{Code}](https://github.com/initialneil/SplattingAvatar.git) [{Webpage}](https://initialneil.github.io/SplattingAvatar)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/SplattingAvater/splattingavater.png"/> 
 
 #### 2023
 
