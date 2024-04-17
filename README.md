@@ -170,6 +170,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - Cones 2: Customizable Image Synthesis with Multiple Subjects `NeurIPS2023` [{Paper}](https://arxiv.org/abs/2305.19327) [{Code}](https://github.com/ali-vilab/Cones-V2.git) [{Webpage}](https://cones.github.io/)<details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Cones-V2/Cones-V2.png"/>
 
+- ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation `ICCV 2023` [{Paper}](https://arxiv.org/abs/2302.13848) [{Code}](https://github.com/csyxwei/ELITE.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/ELITE/ELITE.png"/>
+
 ### Text-guided Image Editing
 
 #### 2024
@@ -231,6 +233,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.01663) [{Code}](https://github.com/hrz2000/CustomNeRF.git) [{Webpage}](https://customnerf.github.io/)<details>Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/customnerf/customnerf.png"/> 
 
 - Posterior Distillation Sampling `CVPR 2024` [{Paper}](https://arxiv.org/abs/2311.13831) [{Code}](https://github.com/KAIST-Visual-AI-Group/PDS.git) [{Webpage}](https://posterior-distillation-sampling.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/PDS/pds.png"/> 
+
+- Learning Continuous 3D Words for Text-to-Image Generation `CVPR 2024` [{Paper}](https://arxiv.org/abs/2402.08654) [{Code}](https://github.com/ttchengab/continuous_3d_words_code.git) [{Webpage}](https://ttchengab.github.io/continuous_3d_words/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/continuous_3d/continuous_3d.png"/> 
 
 #### 2023
 
