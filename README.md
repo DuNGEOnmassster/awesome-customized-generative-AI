@@ -211,6 +211,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.01807) [{Code}](https://github.com/facebookresearch/ViewDiff.git) [{Webpage}](https://lukashoel.github.io/ViewDiff/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/ViewDiff/viewdiff.png"/> 
 
+- LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model `CVPR 2024` [{Paper}](https://arxiv.org/abs/2305.11577) [{Code}](https://github.com/ewrfcas/leftrefill.git) [{Webpage}](https://ewrfcas.github.io/LeftRefill/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/LeftRefill/LeftRefill.png"/> 
+
 #### 2023
 
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
