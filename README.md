@@ -209,6 +209,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.05087) [{Code}](https://github.com/initialneil/SplattingAvatar.git) [{Webpage}](https://initialneil.github.io/SplattingAvatar)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/SplattingAvater/splattingavater.png"/> 
 
+- ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.01807) [{Code}](https://github.com/facebookresearch/ViewDiff.git) [{Webpage}](https://lukashoel.github.io/ViewDiff/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/ViewDiff/viewdiff.png"/> 
+
 #### 2023
 
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
