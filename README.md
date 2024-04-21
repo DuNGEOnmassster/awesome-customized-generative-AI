@@ -106,6 +106,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 - MagiCapture: High-Resolution Multi-Concept Portrait Customization `AAAI2024` [{Paper}](https://arxiv.org/abs/2309.06895) [{Code}](https://github.com/junhahyung/MagiCapture.git) [{Webpage}](https://magicapture.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/MagiCapture/magicapture.png"/> </p></details>
 
+- MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis `CVPR 2024` [{Paper}](https://arxiv.org/abs/2402.05408) [{Code}](https://github.com/limuloo/MIGC.git) [{Webpage}](https://migcproject.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/MIGC/MIGC.png"/> </p></details>
+
 #### 2023
 
 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold `SIGGRAPH 2023` [{Paper}](https://arxiv.org/abs/2305.10973) [{Code}](https://github.com/XingangPan/DragGAN.git) [{Webpage}](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)<details>Interactive manipulation of the generative image manifold!<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/DragGAN/draggan.png"/> </p></details>
