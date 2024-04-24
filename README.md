@@ -87,6 +87,8 @@ Frequantly updating, please stay tuned!
   <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/InstantStyle/image-based-style-transfer.png"/>
 </p></details>
 
+- DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.06951) [{Code}](https://github.com/bytedance/DEADiff.git) [{Webpage}](https://tianhao-qi.github.io/DEADiff/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/DEADiff/DEADiff.png"/>
+
 #### 2023
 
 - ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation) and [Text-guided Image Editing](#text-guided-image-editing)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/visconet/visconet.png"/>
@@ -183,6 +185,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 #### 2024
 
 - BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2401.13974) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/BootPig/BootPig.png"/>
+
+- Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.00644) [{Code}](https://github.com/yuhaoliu7456/Diff-Plugin.git) [{Webpage}](https://yuhaoliu7456.github.io/Diff-Plugin/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/Diff-Plugin/diff-plugin.png"/>
 
 #### 2023
 
