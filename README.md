@@ -53,6 +53,8 @@ Frequantly updating, please stay tuned!
 
 - High-fidelity Person-centric Subject-to-Image Synthesis `CVPR 2024` [{Paper}](https://arxiv.org/abs/2311.10329) [{Code}](https://github.com/CodeGoat24/Face-diffuser.git) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Face-diffuser/face-diffuser.png"/> </p></details>
 
+- Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis `CVPR 2024` [{Paper}](https://arxiv.org/abs/2402.18078) [{Code}](https://github.com/YanzuoLu/CFLD.git)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Coarse-to-Fine/Coarse-to-Fine.png"/> </p></details>
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
@@ -222,6 +224,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.01807) [{Code}](https://github.com/facebookresearch/ViewDiff.git) [{Webpage}](https://lukashoel.github.io/ViewDiff/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/ViewDiff/viewdiff.png"/> 
 
 - LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model `CVPR 2024` [{Paper}](https://arxiv.org/abs/2305.11577) [{Code}](https://github.com/ewrfcas/leftrefill.git) [{Webpage}](https://ewrfcas.github.io/LeftRefill/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/LeftRefill/LeftRefill.png"/> 
+
+- Diffusion Time-step Curriculum for One Image to 3D Generation `CVPR 2024` [{Paper}](https://arxiv.org/abs/2404.04562v2) [{Code}](https://github.com/yxymessi/DTC123.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/DTC123/DTC123.png"/> 
 
 #### 2023
 
