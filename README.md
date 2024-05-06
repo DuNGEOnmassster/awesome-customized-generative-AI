@@ -91,6 +91,8 @@ Frequantly updating, please stay tuned!
 
 - DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.06951) [{Code}](https://github.com/bytedance/DEADiff.git) [{Webpage}](https://tianhao-qi.github.io/DEADiff/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/DEADiff/DEADiff.png"/>
 
+- Customizing Text-to-Image Models with a Single Image Pair `arxiv` [{Paper}](https://arxiv.org/abs/2405.01536)  <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/SIP/SIP.png"/>
+
 #### 2023
 
 - ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation) and [Text-guided Image Editing](#text-guided-image-editing)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/visconet/visconet.png"/>
@@ -113,6 +115,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - MagiCapture: High-Resolution Multi-Concept Portrait Customization `AAAI2024` [{Paper}](https://arxiv.org/abs/2309.06895) [{Code}](https://github.com/junhahyung/MagiCapture.git) [{Webpage}](https://magicapture.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/portrait-style-transfer/MagiCapture/magicapture.png"/> </p></details>
 
 - MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis `CVPR 2024` [{Paper}](https://arxiv.org/abs/2402.05408) [{Code}](https://github.com/limuloo/MIGC.git) [{Webpage}](https://migcproject.github.io/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/MIGC/MIGC.png"/> </p></details>
+
+- LocInv: Localization-aware Inversion for Text-Guided Image Editing `arxiv` [{Paper}](https://arxiv.org/abs/2405.01496) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/LocInv/LocInv.png"/> </p></details>
 
 #### 2023
 
@@ -199,7 +203,7 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models `arxiv` [{Paper}](arxiv.org/abs/2312.14091) [{Code}](https://github.com/Picsart-AI-Research/HD-Painter.git) [{HuggingFace}](https://huggingface.co/spaces/PAIR/HD-Painter) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/HD-Painter/hdpainter.png"/>
 
-
+- Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing `NeurIPS 2023` [{Paper}](https://arxiv.org/abs/2305.12503) [{Code}](https://github.com/wangkai930418/DPL.git)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/DPL/DPL.png"/> </p></details>
 
 ## Customized 3D Generation/Manipulation
 
