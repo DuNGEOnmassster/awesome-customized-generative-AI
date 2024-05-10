@@ -55,6 +55,10 @@ Frequantly updating, please stay tuned!
 
 - Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis `CVPR 2024` [{Paper}](https://arxiv.org/abs/2402.18078) [{Code}](https://github.com/YanzuoLu/CFLD.git)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/Coarse-to-Fine/Coarse-to-Fine.png"/> </p></details>
 
+- Non-confusing Generation of Customized Concepts in Diffusion Models `ICML 2024` [{Paper}]() [{Code}](https://github.com/clif-official/clif_code.git) [{Webpage}](https://clif-official.github.io/clif/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/CLIF/CLIF.png"/>
+
+- MC2: Multi-concept Guidance for Customized Multi-concept Generation `arxiv` [{Paper}](https://arxiv.org/abs/2404.05268) [{Code}](https://github.com/JIANGJiaXiu/MC-2.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/MC2/MC2.png"/>
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
@@ -151,6 +155,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - Orthogonal Adaptation for Modular Customization of Diffusion Models `CVPR2024` [{Paper}](https://arxiv.org/abs/2312.02432) [{Webpage}](https://ryanpo.com/ortha/) <details>Also suitable for [Image-prompted-Generation](#image-prompted-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/ortha/ortha.png"/> </p></details>
 
 - High-fidelity Person-centric Subject-to-Image Synthesis `CVPR 2024` [{Paper}](https://arxiv.org/abs/2311.10329) [{Code}](https://github.com/CodeGoat24/Face-diffuser.git) <details>Also suitable for [Image-prompted-Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/Face-diffuser/face-diffuser.png"/> </p></details>
+
+- Non-confusing Generation of Customized Concepts in Diffusion Models `ICML 2024` [{Paper}]() [{Code}](https://github.com/clif-official/clif_code.git) [{Webpage}](https://clif-official.github.io/clif/) <details>Also suitable for [Image-prompted-Generation](#image-prompted-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-portrait-generation/clif/clif.png"/> </p></details>
 
 #### 2023
 
