@@ -237,6 +237,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - Diffusion Time-step Curriculum for One Image to 3D Generation `CVPR 2024` [{Paper}](https://arxiv.org/abs/2404.04562v2) [{Code}](https://github.com/yxymessi/DTC123.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/DTC123/DTC123.png"/> 
 
+- DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior `ICLR 2024` [{Paper}](https://arxiv.org/abs/2310.16818) [{Code}](https://github.com/deepseek-ai/DreamCraft3D.git) [{Webpage}](mrtornado24.github.io/DreamCraft3D/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/DreamCraft3D/DreamCraft3D.png"/> `
+
 #### 2023
 
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
@@ -263,6 +265,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - Posterior Distillation Sampling `CVPR 2024` [{Paper}](https://arxiv.org/abs/2311.13831) [{Code}](https://github.com/KAIST-Visual-AI-Group/PDS.git) [{Webpage}](https://posterior-distillation-sampling.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/PDS/pds.png"/> 
 
 - Learning Continuous 3D Words for Text-to-Image Generation `CVPR 2024` [{Paper}](https://arxiv.org/abs/2402.08654) [{Code}](https://github.com/ttchengab/continuous_3d_words_code.git) [{Webpage}](https://ttchengab.github.io/continuous_3d_words/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/continuous_3d/continuous_3d.png"/> 
+
+- Control4D: Efficient 4D Portrait Editing with Text `CVPR 2024` [{Paper}](https://arxiv.org/abs/2305.20082)[{Webpage}](https://control4darxiv.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Control4D/Control4D.png"/> 
 
 #### 2023
 
