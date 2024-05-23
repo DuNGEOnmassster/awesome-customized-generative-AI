@@ -122,6 +122,8 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 - LocInv: Localization-aware Inversion for Text-Guided Image Editing `arxiv` [{Paper}](https://arxiv.org/abs/2405.01496) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/LocInv/LocInv.png"/> </p></details>
 
+- IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild `arxiv` [{Paper}](https://arxiv.org/abs/2403.05139) [{Code}](https://github.com/yisol/IDM-VTON.git) [{Webpage}](https://idm-vton.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/idm-vton/idm-vton.png"/> </p></details>
+
 #### 2023
 
 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold `SIGGRAPH 2023` [{Paper}](https://arxiv.org/abs/2305.10973) [{Code}](https://github.com/XingangPan/DragGAN.git) [{Webpage}](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)<details>Interactive manipulation of the generative image manifold!<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/DragGAN/draggan.png"/> </p></details>
