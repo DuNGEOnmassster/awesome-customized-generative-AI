@@ -202,6 +202,10 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks `CVPR 2024` [{Paper}](https://arxiv.org/abs/2403.00644) [{Code}](https://github.com/yuhaoliu7456/Diff-Plugin.git) [{Webpage}](https://yuhaoliu7456.github.io/Diff-Plugin/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/Diff-Plugin/diff-plugin.png"/>
 
+- CustomText: Customized Textual Image Generation using Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2405.12531)  <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/CustomText/CustomText.png"/>
+
+- EmoEdit: Evoking Emotions through Image Manipulation `arxiv` [{Paper}](https://arxiv.org/abs/2405.12661)  <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/EmoEdit/EmoEdit.png"/>
+
 #### 2023
 
 - ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)  and [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/visconet/visconet.png"/>
