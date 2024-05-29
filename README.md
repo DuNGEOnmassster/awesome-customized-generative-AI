@@ -245,12 +245,17 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior `ICLR 2024` [{Paper}](https://arxiv.org/abs/2310.16818) [{Code}](https://github.com/deepseek-ai/DreamCraft3D.git) [{Webpage}](mrtornado24.github.io/DreamCraft3D/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/DreamCraft3D/DreamCraft3D.png"/> `
 
+- Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting `arxiv` [{Paper}](https://arxiv.org/abs/2403.09981) [{Code}](https://github.com/WU-CVGL/MVControl-threestudio.git) [{Webpage}](https://lizhiqi49.github.io/MVControl/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/SuGaR/SuGaR.png"/> 
+
 #### 2023
 
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
 </p></details>
 
 - TryOnDiffusion: A Tale of Two UNets `CVPR 2023` [{Paper}](https://arxiv.org/abs/2306.08276) [{Code}](https://github.com/fashn-AI/tryondiffusion.git) [{Webpage}](https://tryondiffusion.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/TryonDiffusion/tryon-diffusion.png"/>
+
+- Debiasing Scores and Prompts of 2D Diffusion
+for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv.org/abs/2303.15413) [{Code}](https://github.com/SusungHong/Debiased-Score-Distillation-Sampling.git) [{Webpage}](https://susunghong.github.io/Debiased-Score-Distillation-Sampling/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Debiased-SDS/Debiased-SDS.png"/>
 
 ### Text-prompted 3D Manipulation
 
