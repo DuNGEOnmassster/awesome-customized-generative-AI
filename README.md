@@ -59,6 +59,8 @@ Frequantly updating, please stay tuned!
 
 - MC2: Multi-concept Guidance for Customized Multi-concept Generation `arxiv` [{Paper}](https://arxiv.org/abs/2404.05268) [{Code}](https://github.com/JIANGJiaXiu/MC-2.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/MC2/MC2.png"/>
 
+- ToonCrafter: Generative Cartoon Interpolation `arxiv` [{Paper}](https://arxiv.org/abs/2405.17933) [{Code}](https://github.com/ToonCrafter/ToonCrafter) [{Webpage}](https://doubiiu.github.io/projects/ToonCrafter/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/ToonCrafter/ToonCrafter.png"/> </p></details>
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
@@ -246,6 +248,9 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior `ICLR 2024` [{Paper}](https://arxiv.org/abs/2310.16818) [{Code}](https://github.com/deepseek-ai/DreamCraft3D.git) [{Webpage}](mrtornado24.github.io/DreamCraft3D/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/DreamCraft3D/DreamCraft3D.png"/> `
 
 - Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting `arxiv` [{Paper}](https://arxiv.org/abs/2403.09981) [{Code}](https://github.com/WU-CVGL/MVControl-threestudio.git) [{Webpage}](https://lizhiqi49.github.io/MVControl/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/SuGaR/SuGaR.png"/> 
+
+- EG4D: Explicit Generation of 4D Object
+without Score Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2405.18132) [{Code}](https://github.com/jasongzy/EG4D.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/EG4D/EG4D.png"/> 
 
 #### 2023
 
