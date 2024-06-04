@@ -23,13 +23,18 @@ Frequantly updating, please stay tuned!
 - [Customized 3D Generation/Manipulation](#customized-3d-generationmanipulation)
   - [Image-prompted 3D Generation](#image-prompted-3d-generation)
   - [Text-prompted 3D Manipulation](#text-prompted-3d-manipulation)
+
+- [Customized Video Generation](#customized-video-generation)
+  - [Image-prompted Video Generation](#image-prompted-video-generation)
+  - [Text-prompted Video Generation](#text-prompted-video-generation)
+
 - [Other Resources](#other-resources)
   - [Generic Datasets](#generic-datasets)
   - [Generic Pre-trained Models](#generic-pre-trained-models)
 
 
 
-## Personalized 2D Image-to-Image
+## Customized 2D Image-to-Image
 
 ### Image-prompted Generation   
 
@@ -252,6 +257,8 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 - EG4D: Explicit Generation of 4D Object
 without Score Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2405.18132) [{Code}](https://github.com/jasongzy/EG4D.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/EG4D/EG4D.png"/> 
 
+- En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data `arxiv` [{Paper}](https://arxiv.org/abs/2401.01173v1) [{Code}](https://github.com/menyifang/En3D.git) [{Webpage}](https://menyifang.github.io/projects/En3D/index.html) <details> Also suitable for [Text-prompted 3D Manipulation](#text-prompted-3d-manipulation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/En3D/En3D.png"/> 
+
 #### 2023
 
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
@@ -284,6 +291,8 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 
 - Control4D: Efficient 4D Portrait Editing with Text `CVPR 2024` [{Paper}](https://arxiv.org/abs/2305.20082)[{Webpage}](https://control4darxiv.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Control4D/Control4D.png"/> 
 
+- En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data `arxiv` [{Paper}](https://arxiv.org/abs/2401.01173v1) [{Code}](https://github.com/menyifang/En3D.git) [{Webpage}](https://menyifang.github.io/projects/En3D/index.html) <details> Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/En3D/En3D.png"/> 
+
 #### 2023
 
 - Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions `ICCV2023` [{Paper}](https://arxiv.org/abs/2303.12789) [{Code}](https://github.com/ayaanzhaque/instruct-nerf2nerf) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Instruct-nerf2nerf/in2n.png"/>
@@ -293,6 +302,18 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 - GaussianEditor (Huawei): Editing 3D Gaussians Delicately with Text Instructions `arxiv` [{Paper}](https://arxiv.org/abs/2311.16037) [{Webpage}](https://gaussianeditor.github.io/?utm_source=catalyzex.com) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/gaussianeditor-huawei/gaussianeditor.png"/> 
 
 - ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields `NeurIPS 2023` [{Paper}](https://arxiv.org/abs/2402.00864) [{Code}](https://github.com/Dongjiahua/VICA-NeRF.git) [{Webpage}](https://dongjiahua.github.io/VICA-NeRF/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/VICA-NeRF/VICA-NeRF.png"/>
+
+## Customized Video Generation
+
+### Image-prompted Video Generation
+
+#### 2024
+
+- Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control `arxiv` [{Paper}](https://arxiv.org/abs/2405.17414) [{Code}](https://github.com/CollaborativeVideoDiffusion/CVD) [{Webpage}](https://collaborativevideodiffusion.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/CVD/CVD.png"/> 
+
+### Text-prompted Video Generation
+
+
 
 ## Other Resources
 
