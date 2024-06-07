@@ -213,6 +213,9 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - EmoEdit: Evoking Emotions through Image Manipulation `arxiv` [{Paper}](https://arxiv.org/abs/2405.12661)  <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/EmoEdit/EmoEdit.png"/>
 
+- Enhancing Text-to-Image Editing via Hybrid
+Mask-Informed Fusion `arxiv` [{Paper}](https://arxiv.org/abs/2405.15313)  <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/HMIF/HMIF.png"/> 
+
 #### 2023
 
 - ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet `arxiv` [{Paper}](https://arxiv.org/abs/2312.03154) [{Code}](https://github.com/soon-yau/visconet.git) [{Webpage}](https://soon-yau.github.io/visconet/) <details>Also suitable for [Image-prompted Generation](#image-prompted-generation)  and [Portrait Style Transfer](#portrait-style-transfer)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/visconet/visconet.png"/>
@@ -311,7 +314,15 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 
 - Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control `arxiv` [{Paper}](https://arxiv.org/abs/2405.17414) [{Code}](https://github.com/CollaborativeVideoDiffusion/CVD) [{Webpage}](https://collaborativevideodiffusion.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/CVD/CVD.png"/> 
 
+- Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion `arxiv` [{Paper}](https://arxiv.org/abs/2402.03162) [{Code}](https://github.com/ysy31415/direct_a_video.git) [{Webpage}](https://direct-a-video.github.io/) <details>Also suitable for [Text-prompted Video Generation](#text-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/Direct-a-Video/Direct-a-Video.png"/> 
+
 ### Text-prompted Video Generation
+
+#### 2024
+
+- Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion `arxiv` [{Paper}](https://arxiv.org/abs/2402.03162) [{Code}](https://github.com/ysy31415/direct_a_video.git) [{Webpage}](https://direct-a-video.github.io/) <details>Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Direct-a-Video/Direct-a-Video.png"/> 
+
+
 
 
 
