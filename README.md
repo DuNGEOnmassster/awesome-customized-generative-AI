@@ -262,6 +262,9 @@ without Score Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2405.18132) [
 
 - En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data `arxiv` [{Paper}](https://arxiv.org/abs/2401.01173v1) [{Code}](https://github.com/menyifang/En3D.git) [{Webpage}](https://menyifang.github.io/projects/En3D/index.html) <details> Also suitable for [Text-prompted 3D Manipulation](#text-prompted-3d-manipulation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/En3D/En3D.png"/> 
 
+- Ouroboros3D: Image-to-3D Generation via 3D-aware
+Recursive Diffusion `arxiv` [{Paper}](https://arxiv.org/abs/2406.03184) [{Code}](https://github.com/Costwen/Ouroboros3D) [{webpage}](https://costwen.github.io/Ouroboros3D/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/Ouroboros3D/Ouroboros3D.png"/> 
+
 #### 2023
 
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
@@ -323,7 +326,7 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 - Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion `arxiv` [{Paper}](https://arxiv.org/abs/2402.03162) [{Code}](https://github.com/ysy31415/direct_a_video.git) [{Webpage}](https://direct-a-video.github.io/) <details>Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Direct-a-Video/Direct-a-Video.png"/> 
 
 
-
+- Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization `ICML 2024 Oral` [{Paper}](https://arxiv.org/abs/2402.03161) [{Code}](https://github.com/jy0205/LaVIT.git) [{Webpage}](https://video-lavit.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/VideoLaVIT/VideoLaVIT.png"/> 
 
 
 ## Other Resources
