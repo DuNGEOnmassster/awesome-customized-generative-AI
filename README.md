@@ -319,6 +319,8 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 
 - Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion `arxiv` [{Paper}](https://arxiv.org/abs/2402.03162) [{Code}](https://github.com/ysy31415/direct_a_video.git) [{Webpage}](https://direct-a-video.github.io/) <details>Also suitable for [Text-prompted Video Generation](#text-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/Direct-a-Video/Direct-a-Video.png"/> 
 
+- AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning `arxiv` [{Paper}](https://arxiv.org/abs/2402.00769) [{Code}](https://github.com/G-U-N/AnimateLCM) [{Webpage}](https://animatelcm.github.io/) <details> Also suitable for [Text-prompted Video Generation](#text-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/animatelcm/animatelcm.png"/> 
+
 ### Text-prompted Video Generation
 
 #### 2024
@@ -328,6 +330,7 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 
 - Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization `ICML 2024 Oral` [{Paper}](https://arxiv.org/abs/2402.03161) [{Code}](https://github.com/jy0205/LaVIT.git) [{Webpage}](https://video-lavit.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/VideoLaVIT/VideoLaVIT.png"/> 
 
+- AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning `arxiv` [{Paper}](https://arxiv.org/abs/2402.00769) [{Code}](https://github.com/G-U-N/AnimateLCM) [{Webpage}](https://animatelcm.github.io/) <details> Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/AnimateLCM/AnimateLCM.png"/>
 
 ## Other Resources
 
