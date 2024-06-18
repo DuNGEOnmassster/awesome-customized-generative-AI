@@ -325,6 +325,8 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 
 - Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2406.06890) [{Code}](https://github.com/yhZhai/mcm.git) [{Webpage}](https://yhzhai.github.io/mcm/?utm_source=catalyzex.com) <details> Also suitable for [Text-prompted Video Generation](#text-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Motion_Consistency_Model/Motion_Consistency_Model.png"/> 
 
+- Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation `arxiv` [{Paper}](https://arxiv.org/abs/2406.08801) [{Code}](https://github.com/fudan-generative-vision/hallo.git) [{Webpage}](https://fudan-generative-vision.github.io/hallo/#/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/Hallo/hallo.png"/> 
+
 ### Text-prompted Video Generation
 
 #### 2024
