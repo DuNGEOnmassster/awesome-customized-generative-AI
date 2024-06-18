@@ -66,6 +66,8 @@ Frequantly updating, please stay tuned!
 
 - ToonCrafter: Generative Cartoon Interpolation `arxiv` [{Paper}](https://arxiv.org/abs/2405.17933) [{Code}](https://github.com/ToonCrafter/ToonCrafter) [{Webpage}](https://doubiiu.github.io/projects/ToonCrafter/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/ToonCrafter/ToonCrafter.png"/> </p></details>
 
+- PCM : Phased Consistency Model `arxiv` [{Paper}](https://arxiv.org/abs/2405.18407) [{Code}](https://github.com/G-U-N/Phased-Consistency-Model.git) [{Webpage}](https://g-u-n.github.io/projects/pcm/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/PCM/PCM.png"/> </p></details>
+
 #### 2023
 
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models `arxiv` [{Paper}](https://arxiv.org/abs/2308.06721) [{Code}](https://github.com/tencent-ailab/IP-Adapter.git) [{Webpage}](https://ip-adapter.github.io/) <details>Also suitable for [Text-guided Portrait Generation](#text-guided-portrait-generation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/image-prompted-generation/IP-Adapter/IP-Adapter-ipg.png"/>
@@ -321,6 +323,8 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 
 - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning `arxiv` [{Paper}](https://arxiv.org/abs/2402.00769) [{Code}](https://github.com/G-U-N/AnimateLCM) [{Webpage}](https://animatelcm.github.io/) <details> Also suitable for [Text-prompted Video Generation](#text-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/animatelcm/animatelcm.png"/> 
 
+- Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2406.06890) [{Code}](https://github.com/yhZhai/mcm.git) [{Webpage}](https://yhzhai.github.io/mcm/?utm_source=catalyzex.com) <details> Also suitable for [Text-prompted Video Generation](#text-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Motion_Consistency_Model/Motion_Consistency_Model.png"/> 
+
 ### Text-prompted Video Generation
 
 #### 2024
@@ -331,6 +335,8 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 - Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization `ICML 2024 Oral` [{Paper}](https://arxiv.org/abs/2402.03161) [{Code}](https://github.com/jy0205/LaVIT.git) [{Webpage}](https://video-lavit.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/VideoLaVIT/VideoLaVIT.png"/> 
 
 - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning `arxiv` [{Paper}](https://arxiv.org/abs/2402.00769) [{Code}](https://github.com/G-U-N/AnimateLCM) [{Webpage}](https://animatelcm.github.io/) <details> Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/AnimateLCM/AnimateLCM.png"/>
+
+- Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2406.06890) [{Code}](https://github.com/yhZhai/mcm.git) [{Webpage}](https://yhzhai.github.io/mcm/?utm_source=catalyzex.com) <details> Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Motion_Consistency_Model/Motion_Consistency_Model.png"/> 
 
 ## Other Resources
 
