@@ -327,6 +327,9 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 
 - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation `arxiv` [{Paper}](https://arxiv.org/abs/2406.08801) [{Code}](https://github.com/fudan-generative-vision/hallo.git) [{Webpage}](https://fudan-generative-vision.github.io/hallo/#/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/Hallo/hallo.png"/> 
 
+- UniAnimate: Taming Unified Video Diffusion Models for
+Consistent Human Image Animation `arxiv` [{Paper}](https://arxiv.org/abs/2406.01188) [{Code}](https://github.com/ali-vilab/UniAnimate) [{Webpage}](https://unianimate.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/UniAnimate/UniAnimate.png"/>  
+
 ### Text-prompted Video Generation
 
 #### 2024
