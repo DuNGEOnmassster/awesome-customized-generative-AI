@@ -267,6 +267,8 @@ without Score Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2405.18132) [
 - Ouroboros3D: Image-to-3D Generation via 3D-aware
 Recursive Diffusion `arxiv` [{Paper}](https://arxiv.org/abs/2406.03184) [{Code}](https://github.com/Costwen/Ouroboros3D) [{webpage}](https://costwen.github.io/Ouroboros3D/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/Ouroboros3D/Ouroboros3D.png"/> 
 
+- Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models `arxiv` [{Paper}]() [{Code}](https://github.com/VITA-Group/Diffusion4D.git) [{Webpage}](https://vita-group.github.io/Diffusion4D/) <details>Also suitable for [Text-prompted 3D Manipulation](#text-prompted-3d-manipulation)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/Diffusion4D/Diffusion4D.png"/> 
+
 #### 2023
 
 - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning `CVPR2023` [{Paper}](https://arxiv.org/abs/2303.13756) [{Code}](https://github.com/xiezhy6/GP-VTON.git) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/editable-3d/GP-VTON/GP-VTON.png"/>
@@ -300,6 +302,8 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 - Control4D: Efficient 4D Portrait Editing with Text `CVPR 2024` [{Paper}](https://arxiv.org/abs/2305.20082)[{Webpage}](https://control4darxiv.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Control4D/Control4D.png"/> 
 
 - En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data `arxiv` [{Paper}](https://arxiv.org/abs/2401.01173v1) [{Code}](https://github.com/menyifang/En3D.git) [{Webpage}](https://menyifang.github.io/projects/En3D/index.html) <details> Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/image-prompted-3d-generation/En3D/En3D.png"/> 
+
+- Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models `arxiv` [{Paper}]() [{Code}](https://github.com/VITA-Group/Diffusion4D.git) [{Webpage}](https://vita-group.github.io/Diffusion4D/) <details>Also suitable for [Image-prompted 3D Generation](#image-prompted-3d-generation) <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-3d-generationmanipulation/text-prompted-3d-manipulation/Diffusion4D/Diffusion4D.png"/> 
 
 #### 2023
 
@@ -344,6 +348,11 @@ Consistent Human Image Animation `arxiv` [{Paper}](https://arxiv.org/abs/2406.01
 - Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2406.06890) [{Code}](https://github.com/yhZhai/mcm.git) [{Webpage}](https://yhzhai.github.io/mcm/?utm_source=catalyzex.com) <details> Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Motion_Consistency_Model/Motion_Consistency_Model.png"/> 
 
 ## Other Resources
+
+### Generic Benchmarks
+
+- TC-Bench: Benchmarking Temporal Compositionality
+in Text-to-Video and Image-to-Video Generation `Text-to-Video-Benchmark` [{Paper}](https://arxiv.org/abs/2406.08656) [{Code}](https://github.com/weixi-feng/TC-Bench.git) [{Webpage}](https://weixi-feng.github.io/tc-bench/) 
 
 ### Generic Datasets
 
