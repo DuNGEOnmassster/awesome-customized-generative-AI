@@ -334,6 +334,9 @@ for View-consistent Text-to-3D Generation `NeurIPS 2023` [{Paper}](https://arxiv
 - UniAnimate: Taming Unified Video Diffusion Models for
 Consistent Human Image Animation `arxiv` [{Paper}](https://arxiv.org/abs/2406.01188) [{Code}](https://github.com/ali-vilab/UniAnimate) [{Webpage}](https://unianimate.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/UniAnimate/UniAnimate.png"/>  
 
+- MimicMotion: High-Quality Human Motion Video
+Generation with Confidence-aware Pose Guidance `arxiv` [{Paper}](https://arxiv.org/abs/2406.19680) [{Code}](https://github.com/Tencent/MimicMotion.git) [{Webpage}](https://tencent.github.io/MimicMotion/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/MimicMotion/MimicMotion.png"/> 
+
 ### Text-prompted Video Generation
 
 #### 2024
@@ -348,6 +351,9 @@ Consistent Human Image Animation `arxiv` [{Paper}](https://arxiv.org/abs/2406.01
 - Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2406.06890) [{Code}](https://github.com/yhZhai/mcm.git) [{Webpage}](https://yhzhai.github.io/mcm/?utm_source=catalyzex.com) <details> Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Motion_Consistency_Model/Motion_Consistency_Model.png"/> 
 
 - Text-Animator: Controllable Visual Text Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2406.17777) [{Code}](https://github.com/laulampaul/text-animator.git) [{Webpage}](https://laulampaul.github.io/text-animator.html)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Motion_Consistency_Model/Motion_Consistency_Model.png"/> 
+
+- MotionBooth: Motion-Aware Customized
+Text-to-Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2406.17758) [{Code}](https://github.com/jianzongwu/MotionBooth.git) [{Webpage}](https://jianzongwu.github.io/projects/motionbooth/) <details><summary>Details</summary>Customized in Motion control<p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/MotionBooth/MotionBooth.png"/> 
 
 ## Other Resources
 
