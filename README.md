@@ -347,6 +347,8 @@ Consistent Human Image Animation `arxiv` [{Paper}](https://arxiv.org/abs/2406.01
 
 - Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation `arxiv` [{Paper}](https://arxiv.org/abs/2406.06890) [{Code}](https://github.com/yhZhai/mcm.git) [{Webpage}](https://yhzhai.github.io/mcm/?utm_source=catalyzex.com) <details> Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Motion_Consistency_Model/Motion_Consistency_Model.png"/> 
 
+- Text-Animator: Controllable Visual Text Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2406.17777) [{Code}](https://github.com/laulampaul/text-animator.git) [{Webpage}](https://laulampaul.github.io/text-animator.html)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Motion_Consistency_Model/Motion_Consistency_Model.png"/> 
+
 ## Other Resources
 
 ### Generic Benchmarks
