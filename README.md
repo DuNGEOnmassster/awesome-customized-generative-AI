@@ -359,8 +359,12 @@ Text-to-Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2406.17758) [{C
 
 ### Generic Benchmarks
 
+#### Video Benchmarks
+
 - TC-Bench: Benchmarking Temporal Compositionality
 in Text-to-Video and Image-to-Video Generation `Text-to-Video-Benchmark` [{Paper}](https://arxiv.org/abs/2406.08656) [{Code}](https://github.com/weixi-feng/TC-Bench.git) [{Webpage}](https://weixi-feng.github.io/tc-bench/) 
+
+- VBench: Comprehensive Benchmark Suite for Video Generative Models `CVPR 2024` [{Paper}](https://arxiv.org/abs/2311.17982) [{Code}](https://github.com/Vchitect/VBench) [{Webpage}](vchitect.github.io/VBench-project/) 
 
 ### Generic Datasets
 
