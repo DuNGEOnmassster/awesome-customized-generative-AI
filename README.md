@@ -355,6 +355,10 @@ Generation with Confidence-aware Pose Guidance `arxiv` [{Paper}](https://arxiv.o
 - MotionBooth: Motion-Aware Customized
 Text-to-Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2406.17758) [{Code}](https://github.com/jianzongwu/MotionBooth.git) [{Webpage}](https://jianzongwu.github.io/projects/motionbooth/) <details><summary>Details</summary>Customized in Motion control<p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/MotionBooth/MotionBooth.png"/> 
 
+#### 2023
+
+- Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2307.06940) [{Code}](https://github.com/videocrafter/animate-a-story) [{Webpage}](https://ailab-cvc.github.io/Animate-A-Story/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Animate-A-Story/animate-a-story.png"/> 
+
 ## Other Resources
 
 ### Generic Benchmarks
