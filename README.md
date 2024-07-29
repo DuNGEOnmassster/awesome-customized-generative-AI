@@ -337,6 +337,8 @@ Consistent Human Image Animation `arxiv` [{Paper}](https://arxiv.org/abs/2406.01
 - MimicMotion: High-Quality Human Motion Video
 Generation with Confidence-aware Pose Guidance `arxiv` [{Paper}](https://arxiv.org/abs/2406.19680) [{Code}](https://github.com/Tencent/MimicMotion.git) [{Webpage}](https://tencent.github.io/MimicMotion/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/MimicMotion/MimicMotion.png"/> 
 
+- EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture `arxiv` [{Paper}](https://arxiv.org/abs/2405.18991v1) [{Code}](https://github.com/aigc-apps/EasyAnimate/) [{Webpage}](https://easyanimate.github.io/) <details> Also suitable for [Text-prompted Video Generation](#text-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/EasyAnimate/EasyAnimate.png"/> 
+
 ### Text-prompted Video Generation
 
 #### 2024
@@ -354,6 +356,10 @@ Generation with Confidence-aware Pose Guidance `arxiv` [{Paper}](https://arxiv.o
 
 - MotionBooth: Motion-Aware Customized
 Text-to-Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2406.17758) [{Code}](https://github.com/jianzongwu/MotionBooth.git) [{Webpage}](https://jianzongwu.github.io/projects/motionbooth/) <details><summary>Details</summary>Customized in Motion control<p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/MotionBooth/MotionBooth.png"/> 
+
+- EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture `arxiv` [{Paper}](https://arxiv.org/abs/2405.18991v1) [{Code}](https://github.com/aigc-apps/EasyAnimate/) [{Webpage}](https://easyanimate.github.io/) <details> Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/EasyAnimate/EasyAnimate.png"/> 
+
+- LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control `arxiv` [{Paper}](https://arxiv.org/abs/2407.03168) [{Code}](https://github.com/KwaiVGI/LivePortrait.git) [{Webpage}](https://liveportrait.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/LivePortrait/LivePortrait.png"/> 
 
 #### 2023
 
