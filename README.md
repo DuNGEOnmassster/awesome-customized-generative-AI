@@ -339,6 +339,9 @@ Generation with Confidence-aware Pose Guidance `arxiv` [{Paper}](https://arxiv.o
 
 - EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture `arxiv` [{Paper}](https://arxiv.org/abs/2405.18991v1) [{Code}](https://github.com/aigc-apps/EasyAnimate/) [{Webpage}](https://easyanimate.github.io/) <details> Also suitable for [Text-prompted Video Generation](#text-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/EasyAnimate/EasyAnimate.png"/> 
 
+- Training-free Composite Scene Generation for
+Layout-to-Image Synthesis `arxiv` [{Paper}](https://arxiv.org/abs/2407.13609) [{Code}](https://github.com/Papple-F/csg) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/Layout-to-Image/Layout-to-Image.png"/> 
+
 ### Text-prompted Video Generation
 
 #### 2024
@@ -360,6 +363,8 @@ Text-to-Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2406.17758) [{C
 - EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture `arxiv` [{Paper}](https://arxiv.org/abs/2405.18991v1) [{Code}](https://github.com/aigc-apps/EasyAnimate/) [{Webpage}](https://easyanimate.github.io/) <details> Also suitable for [Image-prompted Video Generation](#image-prompted-video-generation)  <summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/EasyAnimate/EasyAnimate.png"/> 
 
 - LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control `arxiv` [{Paper}](https://arxiv.org/abs/2407.03168) [{Code}](https://github.com/KwaiVGI/LivePortrait.git) [{Webpage}](https://liveportrait.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/LivePortrait/LivePortrait.png"/> 
+
+- Multi-sentence Video Grounding for Long Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2407.13219) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Multi-sentence-Video-Grounding/Multi-sentence-Video-Grounding.png"/> 
 
 #### 2023
 
