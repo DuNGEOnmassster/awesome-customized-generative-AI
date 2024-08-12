@@ -133,6 +133,9 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 
 - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild `arxiv` [{Paper}](https://arxiv.org/abs/2403.05139) [{Code}](https://github.com/yisol/IDM-VTON.git) [{Webpage}](https://idm-vton.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/idm-vton/idm-vton.png"/> </p></details>
 
+- Diffree: Text-Guided Shape Free Object
+Inpainting with Diffusion Model `arxiv` [{Paper}](https://arxiv.org/abs/2407.16982) [{Code}](https://github.com/OpenGVLab/Diffree) [{Webpage}](https://opengvlab.github.io/Diffree/) <details> Also suitable for [Text-guided Image Editing](#text-guided-image-editing)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/Diffree/Diffree.png"/> </p></details>
+
 #### 2023
 
 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold `SIGGRAPH 2023` [{Paper}](https://arxiv.org/abs/2305.10973) [{Code}](https://github.com/XingangPan/DragGAN.git) [{Webpage}](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)<details>Interactive manipulation of the generative image manifold!<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/DragGAN/draggan.png"/> </p></details>
@@ -217,6 +220,9 @@ for Semantically-Consistent Text-to-Image Personalization `CVPR2024` [{Paper}](h
 
 - Enhancing Text-to-Image Editing via Hybrid
 Mask-Informed Fusion `arxiv` [{Paper}](https://arxiv.org/abs/2405.15313)  <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/HMIF/HMIF.png"/> 
+
+- Diffree: Text-Guided Shape Free Object
+Inpainting with Diffusion Model `arxiv` [{Paper}](https://arxiv.org/abs/2407.16982) [{Code}](https://github.com/OpenGVLab/Diffree) [{Webpage}](https://opengvlab.github.io/Diffree/) <details> Also suitable for [Interactive Image Editing](#interactive-image-editing)<summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-2d-text-to-image/text-guided-image-editing/Diffree/Diffree.png"/> 
 
 #### 2023
 
@@ -341,6 +347,8 @@ Generation with Confidence-aware Pose Guidance `arxiv` [{Paper}](https://arxiv.o
 
 - Training-free Composite Scene Generation for
 Layout-to-Image Synthesis `arxiv` [{Paper}](https://arxiv.org/abs/2407.13609) [{Code}](https://github.com/Papple-F/csg) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/Layout-to-Image/Layout-to-Image.png"/> 
+
+- MagicFight: Personalized Martial Arts Combat Video Generation `openreview` [{Paper}](https://openreview.net/pdf?id=7JhV3Pbfgk) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/MagicFight/MagicFight.png"/> 
 
 ### Text-prompted Video Generation
 
