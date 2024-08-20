@@ -350,6 +350,8 @@ Layout-to-Image Synthesis `arxiv` [{Paper}](https://arxiv.org/abs/2407.13609) [{
 
 - MagicFight: Personalized Martial Arts Combat Video Generation `openreview` [{Paper}](https://openreview.net/pdf?id=7JhV3Pbfgk) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/MagicFight/MagicFight.png"/> 
 
+- DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors `ECCV 2024` [{Paper}](https://arxiv.org/abs/2310.12190) [{Code}](https://github.com/Doubiiu/DynamiCrafter.git) [{Webpage}](https://doubiiu.github.io/projects/DynamiCrafter/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/DynamiCrafter/DynamiCrafter.png"/> 
+
 ### Text-prompted Video Generation
 
 #### 2024
