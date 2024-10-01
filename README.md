@@ -136,11 +136,15 @@ Multi-Level Style Encoder and Explicit Adaptation `arxiv` [{Paper}](https://arxi
 - Diffree: Text-Guided Shape Free Object
 Inpainting with Diffusion Model `arxiv` [{Paper}](https://arxiv.org/abs/2407.16982) [{Code}](https://github.com/OpenGVLab/Diffree) [{Webpage}](https://opengvlab.github.io/Diffree/) <details> Also suitable for [Text-guided Image Editing](#text-guided-image-editing)<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/Diffree/Diffree.png"/> </p></details>
 
+- DRAGTEXT: Rethinking Text Embedding in Point-based Image Editing `arxiv` [{Paper}](https://arxiv.org/abs/2407.17843)  <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/DRAGTEXT/DRAGTEXT.png"/> </p></details>
+
 #### 2023
 
 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold `SIGGRAPH 2023` [{Paper}](https://arxiv.org/abs/2305.10973) [{Code}](https://github.com/XingangPan/DragGAN.git) [{Webpage}](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)<details>Interactive manipulation of the generative image manifold!<summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/DragGAN/draggan.png"/> </p></details>
 
 - DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing `CVPR 2024` [{Paper}](https://arxiv.org/abs/2306.14435) [{Code}](https://github.com/Yujun-Shi/DragDiffusion.git) [{Webpage}](https://yujun-shi.github.io/projects/dragdiffusion.html)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/dragdiffusion/dragdiffusion.png"/> </p></details>
+
+- Expressive Text-to-Image Generation with Rich Text `ICCV 2023` [{Paper}](https://arxiv.org/abs/2304.06720) [{Code}](https://github.com/songweige/rich-text-to-image.git) [{Webpage}](https://rich-text-to-image.github.io/)<details><summary>Details</summary><p align="center">  <img width="100%" src="figures/Customized-2D-Image-to-Image/interactive-image-editing/rexnet/rexnet.png"/> </p></details>
 
 ## Customized 2D Text-to-Image
 
@@ -375,6 +379,8 @@ Text-to-Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2406.17758) [{C
 - LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control `arxiv` [{Paper}](https://arxiv.org/abs/2407.03168) [{Code}](https://github.com/KwaiVGI/LivePortrait.git) [{Webpage}](https://liveportrait.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/image-prompt-video-generation/LivePortrait/LivePortrait.png"/> 
 
 - Multi-sentence Video Grounding for Long Video Generation `arxiv` [{Paper}](https://arxiv.org/abs/2407.13219) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/Multi-sentence-Video-Grounding/Multi-sentence-Video-Grounding.png"/> 
+
+- Video Editing via Factorized Diffusion Distillation `ECCV 2024` [{Paper}](https://arxiv.org/abs/2403.09334) [{Webpage}](https://fdd-video-edit.github.io/) <details><summary>Details</summary><p align="center">  <img width="100%" src="figures/customized-video-generation/text-prompt-video-generation/FDD/FDD.png"/> 
 
 #### 2023
 
